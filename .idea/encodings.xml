@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/hotel/MainRun.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testing/InHotelMockTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testing/InHotelTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testing/SearchTest.java" charset="GBK" />
+  </component>
+</project>
